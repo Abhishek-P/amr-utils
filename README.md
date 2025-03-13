@@ -7,10 +7,10 @@ AMR-utils is a python package for working with AMR data, with tools for reading 
 - Graph operations for operating on AMR data
 - Tools for AMR Visualization
 	- Convert AMR graphs to Latex (using the tikz library)
+ 		- This can then be converted to PDF as standalone for use in other medium.
 	- Display AMR strings as HTML, with overridable display settings for nodes, tokens, and edges
 	- AMR Diff, Display differnces between AMRs as HTML
 	- Display AMR Alignments as HTML
-
 ### Requirements
 - Python 3.6 or higher
 - [PENMAN library](https://github.com/goodmami/penman)
